@@ -1,0 +1,22 @@
+SMAP
+bookingmgmt_jsp.java
+JSP
+*S JSP
+*F
++ 0 bookingmgmt.jsp
+admin/bookingmgmt.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,10:51
+5#1,9:61
+14#0,13:70
+5#2,51:83
+26#0,24:133
+5#3,25:157
+49#0,6:181
+*E

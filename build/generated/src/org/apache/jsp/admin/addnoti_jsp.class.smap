@@ -1,0 +1,22 @@
+SMAP
+addnoti_jsp.java
+JSP
+*S JSP
+*F
++ 0 addnoti.jsp
+admin/addnoti.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,9:51
+5#1,9:60
+13#0,27:69
+5#2,51:96
+39#0,24:146
+5#3,25:170
+62#0,5:194
+*E

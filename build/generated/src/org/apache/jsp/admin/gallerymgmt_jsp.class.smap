@@ -1,0 +1,22 @@
+SMAP
+gallerymgmt_jsp.java
+JSP
+*S JSP
+*F
++ 0 gallerymgmt.jsp
+admin/gallerymgmt.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,9:51
+5#1,9:60
+13#0,10:69
+5#2,68:79
+22#0,19:146
+5#3,25:165
+40#0,4:189
+*E

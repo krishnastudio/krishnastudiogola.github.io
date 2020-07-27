@@ -1,0 +1,29 @@
+SMAP
+faqmgmt_jsp.java
+JSP
+*S JSP
+*F
++ 0 faqmgmt.jsp
+admin/faqmgmt.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,12:53
+5#1,9:65
+16#0,13:74
+5#2,66:87
+28#0,15:152
+43,7:168
+49:175
+50:176,5
+51,2:181,3
+53,4:187
+57,3:192
+59,6:195
+5#3,25:201
+64#0,6:225
+*E

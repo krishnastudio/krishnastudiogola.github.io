@@ -1,0 +1,22 @@
+SMAP
+changepass_jsp.java
+JSP
+*S JSP
+*F
++ 0 changepass.jsp
+admin/changepass.jsp
++ 1 adminlink.jsp
+admin/../master/adminlink.jsp
++ 2 adminheader.jsp
+admin/../master/adminheader.jsp
++ 3 adminfooter.jsp
+admin/../master/adminfooter.jsp
+*L
+5,10:51
+5#1,9:61
+14#0,32:70
+5#2,51:102
+45#0,21:152
+5#3,25:173
+65#0,7:197
+*E
